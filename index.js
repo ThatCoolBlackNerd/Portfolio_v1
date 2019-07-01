@@ -32,7 +32,7 @@ function myProjects () {
     return `
     <h2 class="title myProjects">Projects</h2>
     <h3 class="projectTitle">NBA Quiz</h3>
-    <div class="projectScreenshot"><img src="img/quizQuestion.png" class="quizImg"></div>
+    <div class="projectScreenshot"><img src="img/quizQuestion.PNG" class="quizImg"></div>
     <span class="link"><a href="https://github.com/ThatCoolBlackNerd/NBA-Quiz.git">View Code</a> | <a href="https://thatcoolblacknerd.github.io/NBA-Quiz/">View Project</a></span>
     <p class="skills">Technologies Used - HTML5, CSS, JavaScript, JQuery</p>
     <p class="description"><u>Project Description</u><br><br>
