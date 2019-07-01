@@ -3,27 +3,26 @@
 @media only screen and (min-width: 768px) {
 
 .title {
-    font-size: 200px;
-    margin-top: -20px;
-    margin-bottom: 20px;
+    font-size: 140px;
+    margin-bottom: 35px;
 }
 
 .aboutMe {
-    margin-top: -150px;
+    margin-top: -10px;
 }
 
 .myProjects {
-    margin-bottom: 45;
+    margin-bottom: 30px;
 }
 
 .headline {
-    font-size: 30px;
-    margin-bottom: 150px;
+    font-size: 25px;
+    margin-bottom: 50px;
 }
 
 .projectTitle {
     margin-top: 15px;
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .buttonClass {
@@ -40,24 +39,28 @@
 }
 
 .bioText {
-    font-size: 22px;
-    height: 350px;
-    margin-top: 25px;
-    margin-bottom: 50px;
+    font-size: 20px;
+    height: 60%;
+    margin-top: 0px;
+    margin-bottom: 20px;
     padding: 25px;
 }
 
 a {
-   font-size: 20px;
+   font-size: 18px;
 }
 
 .skills {
-    font-size: 20px;
+    font-size: 18px;
  }
 
  .description {
-    font-size: 25px;
+    font-size: 20px;
     padding: 20px;
+ }
+
+ .contactMe {
+     font-size: 20px;
  }
 
 }
