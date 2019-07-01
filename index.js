@@ -1,15 +1,18 @@
 
 function whoAmI () {
     return `
-    <h2 class="title aboutMe">About Me</h2>
+    <h2 class="title aboutMe">Who Am I?</h2>
     <div class="bioText">I am a recent MBA Graduate and current Web Development student in the Bloc Web Developer Program. I am looking to combine my business and project
-    management skills with web development to help create web and mobile apps that makes life easier for people.<br><br> My ability to understand both the technical
+    management skills with web development to work with a great team and help create web and mobile apps that makes life easier for people.<br><br> My ability to understand both the technical
     and business aspects gives me a unique perspective on creating the best end user experience.<br><br>
+    Coding and business is what I do for work, but it's not all I do. I am also a podcast host, movie critic, comic book nerd, who played college football, 
+    loves basketball and enjoys dinner with my wife and days at the park with my dog.
+    <p class="contactMe">Contact Me:</p><br><br>
         <div class="socialIcon">
             <a href="mailto:bmcarr21@me.com"><img src="img/email.png" class="img mail"></a>
-            <a href="https://www.linkedin.com/in/brandoncarr21/"><img src="img/linkedin.png" class="img linked"></a>
-            <a href="https://github.com/ThatCoolBlackNerd"><img src="img/github.png" class="img git"></a>
-            <a href="https://twitter.com/thatcoolblknerd"><img src="img/twitter.png" class="img twitter"></a>
+            <a href="https://www.linkedin.com/in/brandoncarr21/" target="_blank"><img src="img/linkedin.png" class="img linked"></a>
+            <a href="https://github.com/ThatCoolBlackNerd" target="_blank"><img src="img/github.png" class="img git"></a>
+            <a href="https://twitter.com/thatcoolblknerd" target="_blank"><img src="img/twitter.png" class="img twitter"></a>
         </div>
     </div>
     <div class="buttonClass">
