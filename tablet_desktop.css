@@ -1,0 +1,63 @@
+/* Tablet Styling */
+
+@media only screen and (min-width: 768px) {
+
+.title {
+    font-size: 200px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.aboutMe {
+    margin-top: -150px;
+}
+
+.myProjects {
+    margin-bottom: 45;
+}
+
+.headline {
+    font-size: 30px;
+    margin-bottom: 150px;
+}
+
+.projectTitle {
+    margin-top: 15px;
+    font-size: 45px;
+}
+
+.buttonClass {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+.button {
+    width: 50%;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+.bioText {
+    font-size: 22px;
+    height: 350px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 25px;
+}
+
+a {
+   font-size: 20px;
+}
+
+.skills {
+    font-size: 20px;
+ }
+
+ .description {
+    font-size: 25px;
+    padding: 20px;
+ }
+
+}
