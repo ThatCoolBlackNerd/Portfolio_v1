@@ -18,6 +18,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 /* Title and Subtitle */
@@ -146,6 +147,16 @@ body {
 .contactInfo {
     text-align: left;
     width: 100%;
+}
+
+a.button {
+    text-decoration: none;
+    text-align: center;
+    line-height: 47px;
+}
+
+a.button:hover {
+    color: white;
 }
 
 a:hover {
